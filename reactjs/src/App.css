@@ -1,0 +1,58 @@
+.app {
+    text-align: center;
+}
+
+.app-logo {
+    animation: App-logo-spin infinite 20s linear;
+}
+
+.app-header {
+    background-color: #222;
+    height: 150px;
+    width: 20px;
+    color: white;
+}
+
+.app-title {
+    font-size: 1.5em;
+}
+
+.addProduct {
+    background-color: rgb(242, 242, 242);
+    border-color: rgb(242, 242, 242);
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 1px;
+    padding: 20px;
+}
+
+.copyRight {
+    color: white;
+}
+
+.icon {
+    color: white;
+}
+
+.noData {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.footerWeb {
+    background-color: rgb(52, 58, 64);
+    bottom: 0;
+    margin-top: 1cm;
+    left: 0;
+    position: fixed;
+    width: "100%"
+}
+
+.productTable {
+    background-color: rgb(242, 242, 242);
+    border-color: rgb(242, 242, 242);
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 1px;
+    padding: 20px;
+}
